@@ -1,0 +1,44 @@
+.tryTexRed{
+	color: red
+}
+
+// OneGarage.jsx
+
+.garageID{
+	min-width: 150px;
+}
+
+// CarCard.jsx
+
+.carCard{
+	min-width: 150px;
+}
+
+.carDataDiv{
+	display: flex;
+	
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: yellow;
+	text-transform: capitalize;
+
+	div{
+		margin:  0;
+		
+		&:nth-child(1) {
+			font-weight: lighter;
+
+		}
+
+
+			&:nth-child(2){
+				font-weight: bolder;
+				font-size: 150%;
+			}
+	}
+
+}
+
+
+

@@ -1,3 +1,5 @@
+import "../styles/mainStyle.css";
+
 const NavBar = () => {
   return (
     <div
@@ -7,7 +9,7 @@ const NavBar = () => {
 					flex
 					"
     >
-      <div className=" navButtonsTW"> Cars </div>
+      <div className=" navButtonsTW tryTexRed"> Cars </div>
       <div className="navButtonsTW">Random Car</div>
       <div className="navButtonsTW">About</div>
     </div>

@@ -4,7 +4,7 @@ const Head = () => {
   return (
     <div
       className="headContainer 
-        w-full  h-40  bg-red-500  fixed
+        w-full  h-40  bg-red-500  text-center
         flex flex-col justify-between"
     >
       <div
