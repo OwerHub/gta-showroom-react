@@ -2,12 +2,29 @@ import { useEffect, useState } from "react";
 
 const CarCard = (props) => {
   const [isNameArray, setNameArray] = useState([]);
+  const [isUrl, setUrl] = useState();
+
+  const [isTry, setTry] = useState();
+
+  const tryRequire = (incomingURL) => {
+    try {
+      return require(incomingURL);
+    } catch {
+      console.log("new");
+      return require("../imgs/CarPlaceholder2.jpg");
+    }
+  };
 
   useEffect(() => {
     setNameArray(props.carData.split("-"));
-  }, []);
+    tryRequire("albany-franken-stange");
 
-  const url = "CarPlaceholder2.jpg";
+    const proba = "albany-franken-stange";
+    setTry(require("../imgs/tempCarPics/" + proba + ".png"));
+
+    setUrl("stange");
+    //    setUrl(tryRequire(`../imgs/tempCarPics/${props.carData}.png`));
+  }, []);
 
   return (
     <div
@@ -17,7 +34,12 @@ const CarCard = (props) => {
 		
 		"
     >
-      <img src={require(`../imgs/${url}`)} alt="" />
+      {/*  {isTry && <img src={isTry} alt="sda" />} */}
+      <img src={isTry} alt="sda" />
+      <img
+        src={require(`../imgs/tempCarPics/albany-franken-stange.png`)}
+        alt="asdas"
+      />
       <div
         className="
 				carDataDiv
