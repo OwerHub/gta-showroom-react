@@ -73,7 +73,7 @@
 		"order": 1,
 		"note": "csak a legjobbak",
 		"cars": [
-			"pegassi-torero-", "lapmadati-viseris-", "pegassi-opressor-MKII", "bF-weevil-", "invetero-croquette-classic_topless", "nagasaki-shotaro-", "lampadati-tropos-Rallye", "declasse-yosemite-drift", "declasse-sabre-hotring"
+			"pegassi-torero-", "lapmadati-viseris-", "pegassi-opressor-MKII", "bF-weevil-", "invetero-croquette-classic_topless", "nagasaki-shotaro-", "lampadati-tropos-Rallye", "declasse-yosemite-drift", "declasse-sabre-hotring", "progen-gP1-"
 		]
 	},
 	{
@@ -192,7 +192,18 @@
 		"order": 51,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
-			"nagasaki-buzzard-Attack", "buckingham-Akula-", "western-cargobob-Jetsam", "unknown-savage-", "nagasaki-ultralight-", "mammoth-hydra-", "unknown-strikeforce-b11", "kraken-kraken-sumbarine", "nagasaki-dinghy"
+			"nagasaki-buzzard-Attack", "buckingham-Akula-", "western-cargobob-Jetsam", "unknown-savage-", "nagasaki-ultralight-", "mammoth-hydra-", "unknown-strikeforce-b11", "kraken-kraken-sumbarine", "nagasaki-dinghy", "unknown-sparrow-", "buckingham-superVolito-Carbon", "maibatsu-frogger-", "western-cuban_800-"
+		]
+	},
+	{
+		"name": "Unit 1 Olympic Fwy",
+		"aka": "Csak úgy",
+		"space": 6,
+		"order": 20,
+		"note": "Lecserélem  majd egy nagyobb garázsra",
+		"cars": [
+			"tornado-rat_Rod-", "sorry-de-telleg"
 		]
 	}
+
 ]
