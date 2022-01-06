@@ -2,6 +2,11 @@
   color: red;
 }
 
+.App {
+  position: relative;
+  min-height: 100vh;
+}
+
 .garageID {
   min-width: 150px;
 }
@@ -22,9 +27,34 @@
   margin: 0;
 }
 .carDataDiv div:nth-child(1) {
-  font-weight: lighter;
+  font-weight: light;
+  font-size: 75%;
 }
 .carDataDiv div:nth-child(2) {
   font-weight: bolder;
   font-size: 150%;
+}
+
+.randomcar {
+  height: 100vh;
+}
+
+.randomInner {
+  min-height: 50vh;
+}
+
+.carNameInRandom div:nth-child(1) {
+  text-transform: capitalize;
+}
+.carNameInRandom div:nth-child(2) {
+  font-size: 150%;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.carNameInRandom div:nth-child(3) {
+  font-weight: 400;
+}
+
+.aboutDiv div {
+  max-width: 900px;
 }

@@ -18,7 +18,7 @@ const Head = () => {
           <div className="text-sm">0.8 alpha version</div>
         </div>
       </div>
-      <NavBar></NavBar>
+      {/*  <NavBar></NavBar> */}
     </div>
   );
 };

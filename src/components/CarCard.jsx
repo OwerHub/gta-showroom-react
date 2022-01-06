@@ -1,29 +1,23 @@
 import { useEffect, useState } from "react";
+import pictureExistVerifier from "../services/pictureExistVerifier";
 
 const CarCard = (props) => {
   const [isNameArray, setNameArray] = useState([]);
-  const [isUrl, setUrl] = useState();
 
-  const [isTry, setTry] = useState();
+  const [isCarPicture, setCarPicture] = useState();
 
   const tryRequire = (incomingURL) => {
     try {
-      return require(incomingURL);
+      return require("../imgs/tempCarPics/" + incomingURL + ".png");
     } catch {
-      console.log("new");
+      console.log("nincs kép", incomingURL);
       return require("../imgs/CarPlaceholder2.jpg");
     }
   };
 
   useEffect(() => {
     setNameArray(props.carData.split("-"));
-    tryRequire("albany-franken-stange");
-
-    const proba = "albany-franken-stange";
-    setTry(require("../imgs/tempCarPics/" + proba + ".png"));
-
-    setUrl("stange");
-    //    setUrl(tryRequire(`../imgs/tempCarPics/${props.carData}.png`));
+    setCarPicture(tryRequire(props.carData));
   }, []);
 
   return (
@@ -31,15 +25,22 @@ const CarCard = (props) => {
       className="
 				carCard 
 				m-2 w-1/6 border-2 border-black 
-		
 		"
     >
-      {/*  {isTry && <img src={isTry} alt="sda" />} */}
-      <img src={isTry} alt="sda" />
-      <img
-        src={require(`../imgs/tempCarPics/albany-franken-stange.png`)}
-        alt="asdas"
-      />
+      <div
+        className="
+					m-1 rounded
+					imageDiv h-28   bg-black overflow-hidden
+					flex justify-center items-center 
+					transition ease-in-out ;
+					"
+      >
+        <img
+          className="h-28 object-contain hover:scale-150 transition "
+          src={isCarPicture}
+          alt="CarPictrure"
+        />
+      </div>
       <div
         className="
 				carDataDiv

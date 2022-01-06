@@ -1,0 +1,9 @@
+[{
+	"name": "Hangár és egyebek",
+	"aka": "Ami nem kocsi",
+	"space": 0,
+	"note": "Amiket nem lehet garázsban tárolni ",
+	"cars": [
+		"nagasaki-buzzard-Attack", "buckingham-Akula-", "western-cargobob-Jetsam", "unknown-savage-", "nagasaki-ultralight-", "mammoth-hydra-", "unknown-strikeforce-b11", "kraken-kraken-sumbarine", "nagasaki-dinghy"
+	]
+}]

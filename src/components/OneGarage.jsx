@@ -6,12 +6,13 @@ const OneGarage = (props) => {
     <div
       className=" 
 				mb-3 mx-5 border-2 border-black
-				flex
+				flex 
+        flex-col md:flex-row
 				"
     >
       <div
         className="garageID 
-				bg-yellow-500  text-center  w-2/12 "
+				bg-yellow-500  text-center  w-full md:w-2/12 "
       >
         <div className="font-bold ">{props.garageData.aka}</div>
         <div>{props.garageData.name}</div>
@@ -27,7 +28,7 @@ const OneGarage = (props) => {
       <div
         className="
 					carWrapper pl-2
-					flex flex-wrap  w-10/12
+					flex flex-wrap  md:justify-start justify-around  w-full  md:w-10/12
 					"
       >
         {props.garageData.cars.map((carData, iterator) => {
