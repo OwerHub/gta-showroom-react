@@ -2,7 +2,7 @@
 		"name": "Exeptionalist Way",
 		"aka": "Maradék Tároló",
 		"space": 10,
-		"order": 18,
+		"order": 180,
 		"note": "első garázs, ide raktam a cuccaim",
 		"cars": ["bF-raptor-", "bravardo-gauntlet-", "enus-huntley-S", "enus-vindsor-", "grotti-turismo-R", "obey-omnis-", "vapid-sandking-XL", "uberMact-sCI-"]
 	},
@@ -10,7 +10,7 @@
 		"name": "3 Alta St, Apt 57",
 		"aka": "Akciógépek",
 		"space": 99,
-		"order": 6,
+		"order": 60,
 		"note": "Mission-okre ideális gépek",
 		"cars": [
 			"declasse-scramjet-", "enus-paragon-Armored", "hVY-nightshark-", "imponte-deluxo-", "pegassi-opressor-MK1", "karin-kuruma-Armored"
@@ -19,17 +19,17 @@
 	{
 		"name": "Del Perro Hts, 7",
 		"aka": "Fast And etc, 2",
-		"order": 3,
+		"order": 30,
 		"space": 99,
 		"note": "Tuners gépek, amik nem fértek el az első garázsban, és pár másik gyors",
 		"cars": [
-			"karin-previon-", "obey-tailgater-S", "annis-remus-", "pegassi-zentorno-", "ubermacht-cypher-", "karin-futo-GTX", "emperor-vectre-"
+			"karin-previon-", "obey-tailgater-S", "annis-remus-", "pegassi-zentorno-", "ubermacht-cypher-", "karin-futo-GTX", "emperor-vectre-", "annis-euros-"
 		]
 	},
 	{
 		"name": "331 Supply Street",
 		"aka": "American Muscle Cars",
-		"order": 5,
+		"order": 50,
 		"space": 10,
 		"note": "Az összes kiemelet motoros, állat cuccom",
 		"cars": [
@@ -40,7 +40,7 @@
 		"name": "Great Chaparal Clubhouse",
 		"aka": "Motoros Klub",
 		"space": 99,
-		"order": 13,
+		"order": 130,
 		"note": "Csak motoroknak, javítóműhellyel",
 		"cars": [
 			"dinka-akuma-", "pegassi-vortex-", "western-zombie-Chopper", "western-rat_Bike-", "western-soverign-"
@@ -50,7 +50,7 @@
 		"name": "870 Route 68",
 		"aka": "Motoros Klub plusz ",
 		"space": 99,
-		"order": 14,
+		"order": 140,
 		"note": "Ami nem fért el a motorklubban",
 		"cars": [
 			"maibatsu-manchez-scout", "shitzu-hakuchou-", "pegassi-bati_810-RR", "nagasaki-blazer-Hot_Rod"
@@ -60,27 +60,27 @@
 		"name": "Route 68 Facility",
 		"aka": "Katonai gépek",
 		"space": 10,
-		"order": 7,
+		"order": 70,
 		"note": "Amin fegyver van",
 		"cars": [
-			"bF-dune-fav", "rUNE-zhaba-", "bravardo-half_track", "hVY-menacer-", "hVY-insurgen_pickup-Custom", "declasse-tampa-Weaponized", "hVY-chernobog-"
+			"bF-dune-fav", "rUNE-zhaba-", "bravardo-half_track", "hVY-menacer-", "hVY-insurgen_pickup-Custom", "declasse-tampa-Weaponized", "hVY-chernobog-" , "unknown-khanjali-TM_02"
 		]
 	},
 	{
 		"name": "Arcade",
 		"aka": "Arcade válogatás",
 		"space": 10,
-		"order": 1,
+		"order": 10,
 		"note": "csak a legjobbak",
 		"cars": [
-			"pegassi-torero-", "lapmadati-viseris-", "pegassi-opressor-MKII", "bF-weevil-", "invetero-croquette-classic_topless", "nagasaki-shotaro-", "lampadati-tropos-Rallye", "declasse-yosemite-drift", "declasse-sabre-hotring", "progen-gP1-"
+			"pegassi-torero-", "lapmadati-viseris-", "bF-weevil-", "invetero-croquette-classic_topless", "nagasaki-shotaro-", "lampadati-tropos-Rallye", "declasse-yosemite-drift", "declasse-sabre-hotring", "progen-gP1-"
 		]
 	},
 	{
 		"name": "Arena Workshop",
 		"aka": "Arena Workshop",
 		"space": 10,
-		"order": 4,
+		"order": 40,
 		"note": "Harci gépek az Arénába",
 		"cars": [
 			"bravardo-sasquatch-apocalypse", "annis-zR_380-apocalypse", "truffade-nero-custom", "weeny-issi-classic", "western-deathbike-apocalypse"
@@ -90,7 +90,7 @@
 		"name": "Arena Workshop B1",
 		"aka": "Begyűjtő",
 		"space": 10,
-		"order": 16,
+		"order": 160,
 		"note": "amiket nem tudtam máshova rakni",
 		"cars": [
 			"coil-brawler-", "albany-franken-stange", "grotti-brioso-300", "weeny-issi-classic2", "vapid-raid-desert", "gallivanter-baller-bt", "vapid-clique-"
@@ -100,7 +100,7 @@
 		"name": "Arena Workshop B2",
 		"aka": "Begyűjtő B2",
 		"space": 10,
-		"order": 17,
+		"order": 170,
 		"note": "amiket nem tudtam máshova rakni",
 		"cars": [
 			"overflod-autarch-", "ocelot-XA_21-", "lampadati-komoda-", "enus-windsor-drop", "dinka-verus-", "rUNE-cheburek-", "nagasaki-blazer-street", "dinka-veto-classic", "dinka-veto-modern"
@@ -110,7 +110,7 @@
 		"name": "Auto Shop Garage",
 		"aka": "Tuners Best Cars",
 		"space": 10,
-		"order": 2,
+		"order": 20,
 		"note": "Los Santos Tuners legjobb kocsijai",
 		"cars": [
 			"vapid-dominator-ASP", "vapid-dominator-GTT", "pfister-growler-", "vulcar-warrener-HKR", "karin-calico-GTF", "dinka-rT3000-", "karin-sultan-RS_Classic", "annis-ZR350-", "dinka-jester-RR"
@@ -120,7 +120,7 @@
 		"name": "Greenwich Parkway",
 		"aka": "Free old classics",
 		"space": 10,
-		"order": 12,
+		"order": 120,
 		"note": "Ingyen színes dögök",
 		"cars": [
 			"ocelot-lynx-", "bravardo-buffalo-sprunk", "declasse-stallion-Burger-Shot", "vapid-dominator-piswasser", "bravardo-gauntlet-Redwood", "dinka-blista-compact", "declasse-stallion-topless"
@@ -130,7 +130,7 @@
 		"name": "Kosatka",
 		"aka": "Pavel birodalma",
 		"space": 1,
-		"order": 15,
+		"order": 150,
 		"note": "A kostaka, ahol elfér a Torreador",
 		"cars": [
 			"pegassi-torreador-"
@@ -139,7 +139,7 @@
 	{
 		"name": "Nightclub B2",
 		"aka": "Benny's cars",
-		"space": 10,
+		"space": 145,
 		"note": "Kocsik Benny előtt és után",
 		"cars": [
 			"ocelot-swinger-", "bravardo-banshee-900R_topless", "bravardo-youga_4x4-classic", "vapid-peyote-", "annis-elegy-RH8"
@@ -149,7 +149,7 @@
 		"name": "Penthouse Garage",
 		"aka": "Virítós kocsik",
 		"space": 10,
-		"order": 10,
+		"order": 100,
 		"note": "A villogok velük kategóriák ",
 		"cars": [
 			"pegassi-zorusso-", "benefactor-krieger-", "maxwell-vagrant-", "benefactor-feltzer"
@@ -159,7 +159,7 @@
 		"name": "South Samble st",
 		"aka": "Filmes kocsik",
 		"space": 10,
-		"order": 11,
+		"order": 110,
 		"note": "Kocsik filmekből",
 		"cars": [
 			"imponte-dukes-toretto", "vapid-ellie-", "lCC-sanctus-"
@@ -169,40 +169,60 @@
 		"name": "Agency Garage",
 		"aka": "Agency",
 		"space": 20,
-		"order": 8,
+		"order": 80,
 		"note": "Agency kocsik, és pár jobb",
 		"cars": [
-			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec", "declasse-mamba-", "ocelot-ardent-"
+			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec", "declasse-mamba-", "ocelot-ardent-", "pfister-neon-"
 		]
 	},
 	{
 		"name": "Pegazus and Menu cars",
 		"aka": "Lehívható járgányok",
 		"space": 0,
-		"order": 50,
+		"order": 500,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
 			"vapid-liberator-", "declasse-taxi-", "jobuilt-phantom-Wedge", "mtl-pounder-Custom", "vapid-speedo-custom", "karin-technical-Aqua"
 		]
 	},
 	{
-		"name": "Hangár és egyebek",
-		"aka": "Ami nem kocsi",
+		"name": "Hangár és Pegazus",
+		"aka": "Szárnyak",
 		"space": 0,
-		"order": 51,
+		"order": 510,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
-			"nagasaki-buzzard-Attack", "buckingham-Akula-", "western-cargobob-Jetsam", "unknown-savage-", "nagasaki-ultralight-", "mammoth-hydra-", "unknown-strikeforce-b11", "kraken-kraken-sumbarine", "nagasaki-dinghy", "unknown-sparrow-", "buckingham-superVolito-Carbon", "maibatsu-frogger-", "western-cuban_800-"
+			"nagasaki-buzzard-Attack", "buckingham-Akula-", "western-cargobob-Jetsam", "unknown-savage-", "nagasaki-ultralight-", "mammoth-hydra-", "unknown-strikeforce-b11", "unknown-sparrow-", "buckingham-superVolito-Carbon", "maibatsu-frogger-", "western-cuban_800-"
+		]
+	},
+	{
+		"name": "Nem kocsi és nem repül",
+		"aka": "Extrák",
+		"space": 0,
+		"order": 520,
+		"note": "Amiket nem lehet garázsban tárolni ",
+		"cars": [
+		"unknown-Banditos-RC", "unknown-tank-RC", "kraken-kraken-sumbarine", "nagasaki-dinghy"
 		]
 	},
 	{
 		"name": "Unit 1 Olympic Fwy",
 		"aka": "Csak úgy",
 		"space": 6,
-		"order": 20,
+		"order": 200,
 		"note": "Lecserélem  majd egy nagyobb garázsra",
 		"cars": [
-			"tornado-rat_Rod-", "sorry-de-telleg"
+			"tornado-rat_Rod-"
+		]
+	},
+	{
+		"name": "Terrorbyte",
+		"aka": "Terrorbyte",
+		"space": 6,
+		"order": 145,
+		"note": "nem szeretem az PO MK2-t, eldugjuk",
+		"cars": [
+			"pegassi-opressor-MKII"
 		]
 	}
 

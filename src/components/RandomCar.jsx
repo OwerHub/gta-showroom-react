@@ -8,7 +8,13 @@ const RandomCar = () => {
   const getAllCars = (garageList) => {
     let carArray = [];
 
-    garageList.forEach((garage) => {
+    // temporary solution, while the full car database not exist
+    const exeption = (garagesToDelete) => {
+      garagesToDelete = garagesToDelete.filter((garage) => garage.aka !== "Extrák");
+      return garagesToDelete;
+    };
+
+    exeption(garageList).forEach((garage) => {
       carArray = [...carArray, ...garage.cars];
     });
 
@@ -56,18 +62,18 @@ const RandomCar = () => {
       <div
         className=" randomInner
 				w-10/12  md:w-1/2 rounded
-				bg-yellow-300 
+				bg-gtaYellow 
 					py-4
 				"
       >
         <div className="font-bold text-2xl ">Random kocsiért</div>
         <div
           className="randomButton
-					bg-red-500
+					bg-gtaRed
 					w-32 mx-auto my-3 h-12 rounded-lg
 					flex justify-center items-center
 					uppercase font-bold	tracking-widest text-2xl
-					cursor-pointer hover:bg-red-700
+					cursor-pointer hover:bg-gtaRed2
 						"
           onClick={() => getRandomCar()}
         >

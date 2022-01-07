@@ -5,14 +5,14 @@ const OneGarage = (props) => {
   return (
     <div
       className=" 
-				mb-3 mx-5 border-2 border-black
+				mb-3 mx-5 mt-4 border-2 border-black
 				flex 
         flex-col md:flex-row
 				"
     >
       <div
         className="garageID 
-				bg-yellow-500  text-center  w-full md:w-2/12 "
+				  text-center  w-full md:w-2/12 py-3 px-2 bg-gtaYellow"
       >
         <div className="font-bold ">{props.garageData.aka}</div>
         <div>{props.garageData.name}</div>

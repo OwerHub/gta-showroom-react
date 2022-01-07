@@ -1,5 +1,3 @@
-import NavBar from "./NavBar";
-
 const Head = () => {
   return (
     <div
@@ -9,13 +7,13 @@ const Head = () => {
     >
       <div
         className="
-        h-full bg-yellow-500
+        h-full bg-gtaYellow
         flex flex-col justify-center 
       "
       >
         <div>
-          <div className="font-bold  text-3xl uppercase ">OwerWild GTA SHOWROOM</div>
-          <div className="text-sm">0.8 alpha version</div>
+          <div className="gtaFont">OwerWild GTA SHOWROOM</div>
+          <div className="text-sm  mt-3 text-gtaRed">0.8 alpha version</div>
         </div>
       </div>
       {/*  <NavBar></NavBar> */}

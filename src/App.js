@@ -11,7 +11,7 @@ import About from "./components/About";
 function App() {
   const [isPage, setPage] = useState(1);
   return (
-    <div className="App bg-gray-800">
+    <div className="App bg-gtaSea">
       <Head></Head>
       <NavBar setContentPage={(isPage) => setPage(isPage)}></NavBar>
       <div className="">

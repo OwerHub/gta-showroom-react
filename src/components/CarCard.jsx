@@ -44,6 +44,7 @@ const CarCard = (props) => {
       <div
         className="
 				carDataDiv
+          bg-gtaYellow
 				h-24
 				"
       >
