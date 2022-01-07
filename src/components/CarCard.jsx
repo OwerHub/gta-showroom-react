@@ -24,19 +24,19 @@ const CarCard = (props) => {
     <div
       className="
 				carCard 
-				m-2 w-1/6 border-2 border-black 
+				mt-8 xs:mt-2    m-2 w-5/6 xs:w-1/6 border-2 border-black 
 		"
     >
       <div
         className="
 					m-1 rounded
-					imageDiv h-28   bg-black overflow-hidden
+					imageDiv xs:h-28   bg-black overflow-hidden
 					flex justify-center items-center 
 					transition ease-in-out ;
 					"
       >
         <img
-          className="h-28 object-contain hover:scale-150 transition "
+          className="xs:h-28 object-contain hover:scale-150 transition "
           src={isCarPicture}
           alt="CarPictrure"
         />

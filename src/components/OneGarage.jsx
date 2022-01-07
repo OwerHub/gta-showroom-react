@@ -8,6 +8,7 @@ const OneGarage = (props) => {
 				mb-3 mx-5 mt-4 border-2 border-black
 				flex 
         flex-col md:flex-row
+    
 				"
     >
       <div
