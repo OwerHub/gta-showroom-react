@@ -31,7 +31,7 @@
 		"aka": "American Muscle Cars",
 		"order": 50,
 		"space": 10,
-		"note": "Az összes kiemelet motoros, állat cuccom",
+		"note": "Az összes kiemelt motoros, állat cuccom",
 		"cars": [
 			"schyster-deviant-", "vapid-hotknife-", "imponte-duke-oDeath-", "bravardo-gauntlet-Classic_Custom", "imponte-phoenix-", "declasse-tulip-", "imponte-dukes-Beater", "peyote-gasser-topless"
 		]
@@ -63,7 +63,7 @@
 		"order": 70,
 		"note": "Amin fegyver van",
 		"cars": [
-			"bF-dune-fav", "rUNE-zhaba-", "bravardo-half_track", "hVY-menacer-", "hVY-insurgen_pickup-Custom", "declasse-tampa-Weaponized", "hVY-chernobog-" , "unknown-khanjali-TM_02"
+			"bF-dune-fav", "rUNE-zhaba-", "bravardo-half_track", "hVY-menacer-", "hVY-insurgen_pickup-Custom", "declasse-tampa-Weaponized", "hVY-chernobog-", "unknown-khanjali-TM_02"
 		]
 	},
 	{
@@ -73,7 +73,7 @@
 		"order": 10,
 		"note": "csak a legjobbak",
 		"cars": [
-			"pegassi-torero-", "lapmadati-viseris-", "bF-weevil-", "invetero-croquette-classic_topless", "nagasaki-shotaro-", "lampadati-tropos-Rallye", "declasse-yosemite-drift", "declasse-sabre-hotring",  "obey-omnis-"
+			"pegassi-torero-", "lapmadati-viseris-", "bF-weevil-", "invetero-croquette-classic_topless", "nagasaki-shotaro-", "lampadati-tropos-Rallye", "declasse-yosemite-drift", "declasse-sabre-hotring", "obey-omnis-"
 		]
 	},
 	{
@@ -93,7 +93,7 @@
 		"order": 160,
 		"note": "amiket nem tudtam máshova rakni",
 		"cars": [
-			 "albany-franken-stange", "grotti-brioso-300", "weeny-issi-classic2", "gallivanter-baller-bt", "vapid-clique-"
+			"albany-franken-stange", "grotti-brioso-300", "weeny-issi-classic2", "gallivanter-baller-bt", "vapid-clique-"
 		]
 	},
 	{
@@ -103,7 +103,7 @@
 		"order": 170,
 		"note": "amiket nem tudtam máshova rakni",
 		"cars": [
-			  "lampadati-komoda-", "enus-windsor-drop", "dinka-verus-", "rUNE-cheburek-", "nagasaki-blazer-street", "dinka-veto-classic", "dinka-veto-modern", "tornado-rat_Rod-"
+			"lampadati-komoda-", "enus-windsor-drop", "dinka-verus-", "rUNE-cheburek-", "nagasaki-blazer-street", "dinka-veto-classic", "dinka-veto-modern", "tornado-rat_Rod-"
 		]
 	},
 	{
@@ -202,17 +202,17 @@
 		"order": 520,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
-		"unknown-Banditos-RC", "unknown-tank-RC", "kraken-kraken-sumbarine", "nagasaki-dinghy"
+			"unknown-Banditos-RC", "unknown-tank-RC", "kraken-kraken-sumbarine", "nagasaki-dinghy"
 		]
 	},
 	{
 		"name": "Unit 1 Olympic Fwy",
 		"aka": "OffRoads",
 		"space": 6,
-		"order": 200,
+		"order": 115,
 		"note": "azért lecserlésem  majd egy nagyobb garázsra",
 		"cars": [
-			 "vapid-raid-desert" , "maxwell-vagrant-", "coil-brawler-"
+			"vapid-raid-desert", "maxwell-vagrant-", "coil-brawler-"
 		]
 	},
 	{
@@ -227,12 +227,12 @@
 	},
 	{
 		"name": "NightClub B3",
-		"aka": "Szoldabb Sportkocsik",
+		"aka": "Szolidabb Sportkocsik",
 		"space": 10,
 		"order": 35,
 		"note": "Ingyen színes dögök",
 		"cars": [
-			"pfister-neon-",  "truffade-nero-custom" , "progen-gP1-" ,"overflod-autarch-", "ocelot-XA_21-",  "grotti-turismo-R",  "uberMact-sCI-"
+			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "grotti-turismo-R", "uberMact-sCI-", "truffade-nero-custom"
 		]
 	}
 

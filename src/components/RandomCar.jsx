@@ -45,6 +45,7 @@ const RandomCar = () => {
 
   const getRandomCar = () => {
     let carlist = getAllCars(carlistJson);
+
     const [carName, number] = randomFromList(carlist);
     const garageName = findCarsGarage(carName, carlistJson);
     const carPic = tryRequire(carName);

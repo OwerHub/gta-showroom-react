@@ -6,7 +6,7 @@ const NavBar = (props) => {
     <div
       className="navbar
 	 				h-10  md:pl-4
-					bg-gtaTryColor
+					bg-gtaPurple text-white
 					flex justify-around  md:justify-start
 					"
     >

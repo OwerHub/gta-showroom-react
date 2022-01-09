@@ -6,8 +6,8 @@ const Head = () => {
         flex flex-col justify-between"
     >
       <div
-        className="
-        h-full bg-gtaYellow
+        className=" headBackground
+        h-full 
         flex flex-col justify-center 
       "
       >
