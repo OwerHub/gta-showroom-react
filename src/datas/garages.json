@@ -4,7 +4,7 @@
 		"space": 10,
 		"order": 180,
 		"note": "első garázs, ide raktam a cuccaim",
-		"cars": ["bF-raptor-", "bravardo-gauntlet-", "enus-huntley-S", "enus-vindsor-", "vapid-sandking-XL"]
+		"cars": ["bF-raptor-", "bravardo-gauntlet-", "enus-huntley-S", "enus-vindsor-", "vapid-sandking-XL"  ]
 	},
 	{
 		"name": "3 Alta St, Apt 57",
@@ -23,7 +23,7 @@
 		"space": 99,
 		"note": "Tuners gépek, amik nem fértek el az első garázsban, és pár másik gyors",
 		"cars": [
-			"karin-previon-", "obey-tailgater-S", "annis-remus-", "pegassi-zentorno-", "ubermacht-cypher-", "karin-futo-GTX", "emperor-vectre-", "annis-euros-"
+			"karin-previon-", "obey-tailgater-S", "annis-remus-", "ubermacht-cypher-", "karin-futo-GTX", "emperor-vectre-", "annis-euros-"
 		]
 	},
 	{
@@ -47,13 +47,13 @@
 		]
 	},
 	{
-		"name": "870 Route 68",
+		"name": "murieta",
 		"aka": "Motoros Klub plusz ",
 		"space": 99,
 		"order": 140,
 		"note": "Ami nem fért el a motorklubban",
 		"cars": [
-			"maibatsu-manchez-scout", "shitzu-hakuchou-", "pegassi-bati_810-RR", "nagasaki-blazer-Hot_Rod"
+			"maibatsu-manchez-scout", "shitzu-hakuchou-", "pegassi-bati_810-RR", "nagasaki-blazer-Hot_Rod" , "dinka-verus-",  "nagasaki-blazer-street"
 		]
 	},
 	{
@@ -93,7 +93,7 @@
 		"order": 160,
 		"note": "amiket nem tudtam máshova rakni",
 		"cars": [
-			"albany-franken-stange", "grotti-brioso-300", "weeny-issi-classic2", "gallivanter-baller-bt", "vapid-clique-"
+			"albany-franken-stange", "grotti-brioso-300", "weeny-issi-classic2", "tornado-rat_Rod-" ,"gallivanter-baller-bt", "vapid-clique-",  "dinka-veto-classic", "dinka-veto-modern"
 		]
 	},
 	{
@@ -101,9 +101,9 @@
 		"aka": "Begyűjtő B2",
 		"space": 10,
 		"order": 170,
-		"note": "amiket nem tudtam máshova rakni",
+		"note": "majd átalakítandók",
 		"cars": [
-			"lampadati-komoda-", "enus-windsor-drop", "dinka-verus-", "rUNE-cheburek-", "nagasaki-blazer-street", "dinka-veto-classic", "dinka-veto-modern", "tornado-rat_Rod-"
+		  "rUNE-cheburek-", "annis-elegy-RH8",  "vapid-peyote-"
 		]
 	},
 	{
@@ -142,7 +142,7 @@
 		"order": 145,
 		"note": "Kocsik Benny előtt és után",
 		"cars": [
-			"ocelot-swinger-", "bravardo-banshee-900R_topless", "bravardo-youga_4x4-classic", "vapid-peyote-", "annis-elegy-RH8"
+			 "bravardo-banshee-900R_topless" , "albany-manana-Custom", "pfister-comet-RetroCust", "willard-faction-Donk", "declasse-moonbeam-Custom", "declasse-yosemite-Rancher", "karin-sultan-RS", "declasse-sabre-Custom"
 		]
 	},
 	{
@@ -172,7 +172,7 @@
 		"order": 80,
 		"note": "Agency kocsik, és pár jobb",
 		"cars": [
-			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec", "declasse-mamba-", "ocelot-ardent-"
+			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec", "declasse-mamba-", "ocelot-ardent-" ,"pfister-comet-S2_Cabrio"
 		]
 	},
 	{
@@ -230,9 +230,19 @@
 		"aka": "Szolidabb Sportkocsik",
 		"space": 10,
 		"order": 35,
-		"note": "Ingyen színes dögök",
+		"note": "Egyszerűbb sportkocsik",
 		"cars": [
-			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "grotti-turismo-R", "uberMact-sCI-", "truffade-nero-custom"
+			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "ocelot-swinger-","grotti-turismo-R", "uberMact-sCI-", "truffade-nero-custom", "pegassi-zentorno-"
+		]
+	},
+	{
+		"name": "NightClub B4",
+		"aka": "szedánok",
+		"space": 10,
+		"order": 36,
+		"note": "gyors családi gépek",
+		"cars": [
+			"lampadati-komoda-", "ocelot-jugular", "enus-windsor-drop"
 		]
 	}
 
