@@ -17,7 +17,7 @@ const RandomCar = () => {
     exeption(garageList).forEach((garage) => {
       carArray = [...carArray, ...garage.cars];
     });
-
+    console.log("all Cars: ", carArray.length);
     return carArray;
   };
 
