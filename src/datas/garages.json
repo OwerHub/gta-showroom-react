@@ -23,7 +23,6 @@
 		"space": 10,
 		"note": "Tuners gépek, amik nem fértek el az első garázsban, és pár másik gyors",
 		"cars": [
-			"karin-previon-", "obey-tailgater-S", "annis-remus-", "ubermacht-cypher-", "karin-futo-GTX", "emperor-vectre-", "annis-euros-"
 		]
 	},
 	{
@@ -113,7 +112,7 @@
 		"order": 20,
 		"note": "Los Santos Tuners legjobb kocsijai",
 		"cars": [
-			"vapid-dominator-ASP", "vapid-dominator-GTT", "pfister-growler-", "vulcar-warrener-HKR", "karin-calico-GTF", "dinka-rT3000-", "karin-sultan-RS_Classic", "annis-ZR350-", "dinka-jester-RR"
+		
 		]
 	},
 	{
@@ -153,7 +152,7 @@
 		"order": 100,
 		"note": "A villogok velük kategóriák ",
 		"cars": [
-			"pegassi-zorusso-", "benefactor-krieger-", "benefactor-feltzer"
+
 		]
 	},
 	{
@@ -173,7 +172,7 @@
 		"order": 80,
 		"note": "Agency kocsik, és pár jobb",
 		"cars": [
-			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec", "declasse-mamba-", "ocelot-ardent-", "pfister-comet-S2_Cabrio"
+			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec"
 		]
 	},
 	{
@@ -244,6 +243,27 @@
 		"note": "gyors családi gépek",
 		"cars": [
 			"lampadati-komoda-", "ocelot-jugular", "enus-windsor-drop"
+		]
+	},
+	{
+		"name": "Office B1",
+		"aka": "kedvencek",
+		"space": 20,
+		"order": 1,
+		"note": "Kedvenceim",
+		"cars": [
+			"pegassi-zorusso-", "pegassi-ignus-",	 "benefactor-krieger-", 	 "benefactor-feltzer" ,  "declasse-mamba-", "ocelot-ardent-"
+		]
+	},
+	{
+		"name": "Office B2",
+		"aka": "UnderGround Cars",
+		"space": 20,
+		"order": 2,
+		"note": "Auto Shop DLC Gépek",
+		"cars": [
+			"vapid-dominator-ASP", "vapid-dominator-GTT", "pfister-growler-", "vulcar-warrener-HKR", "karin-calico-GTF", "dinka-rT3000-", "karin-sultan-RS_Classic", "annis-ZR350-", "dinka-jester-RR",
+			"karin-previon-", "obey-tailgater-S", "annis-remus-", "ubermacht-cypher-", "karin-futo-GTX", "emperor-vectre-", "annis-euros-", "pfister-comet-S2_Cabrio"
 		]
 	}
 
