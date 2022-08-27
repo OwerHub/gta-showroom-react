@@ -4,14 +4,14 @@
 		"space": 10,
 		"order": 180,
 		"note": "első garázs, ide raktam a cuccaim",
-		"cars": ["bF-raptor-", "bravardo-gauntlet-", "enus-huntley-S", "enus-vindsor-"]
+		"cars": ["bF-raptor-", "bravardo-gauntlet-", "enus-huntley-S", "enus-vindsor-","declasse-tornado-"]
 	},
 	{
 		"name": "3 Alta St, Apt 57",
 		"aka": "Akciógépek",
 		"space": 10,
 		"order": 60,
-		"note": "Mission-okre ideális gépek",
+		"note": "Per moment üres",
 		"cars": [
 			
 		]
@@ -43,7 +43,7 @@
 		"space": 10,
 		"note": "Az összes kiemelt motoros, állat cuccom",
 		"cars": [
-			"schyster-deviant-", "vapid-hotknife-", "imponte-duke-oDeath-",  "imponte-phoenix-", "declasse-tulip-", "imponte-dukes-Beater", "peyote-gasser-topless"
+			"schyster-deviant-", "vapid-hotknife-", "imponte-duke-oDeath-",  "imponte-phoenix-", "declasse-tulip-", "imponte-dukes-Beater", "peyote-gasser-topless", "imponte-nightsade"
 		]
 	},
 	{
@@ -53,7 +53,7 @@
 		"order": 130,
 		"note": "Csak motoroknak, javítóműhellyel",
 		"cars": [
-			"dinka-akuma-", "pegassi-vortex-", "western-zombie-Chopper", "western-rat_Bike-", "western-soverign-"
+			"dinka-akuma-", "pegassi-vortex-", "western-zombie-Chopper", "western-rat_Bike-", "western-soverign-", "pegassi-vortex-2"
 		]
 	},
 	{
@@ -63,7 +63,7 @@
 		"order": 140,
 		"note": "Ami nem fért el a motorklubban",
 		"cars": [
-			"maibatsu-manchez-scout", "shitzu-hakuchou-", "pegassi-bati_810-RR", "nagasaki-blazer-Hot_Rod", "dinka-verus-", "nagasaki-blazer-street"
+			"maibatsu-manchez-scout", "shitzu-hakuchou-", "pegassi-bati_810-RR", "nagasaki-blazer-Hot_Rod", "dinka-verus-", "nagasaki-blazer-street", "nagasaki-chimera-"
 		]
 	},
 	{
@@ -83,7 +83,7 @@
 		"order": 10,
 		"note": "csak a legjobbak",
 		"cars": [
-			 "lapmadati-viseris-", "bF-weevil-","nagasaki-shotaro-", "albany-rosevelt-valor", "annis-savestra", "shitzu-hakuchou-Drag"
+			 "lapmadati-viseris-", "bF-weevil-","nagasaki-shotaro-", "benefactor-stirling-GT", "albany-rosevelt-valor", "annis-savestra", "shitzu-hakuchou-Drag", "vapid-retinue", "benefactor-BR_8-"
 		]
 	},
 	{
@@ -94,7 +94,7 @@
 		"note": "Harci gépek az Arénába",
 		"cars": [
 			"bravardo-sasquatch-apocalypse", "annis-zR_380-apocalypse", "weeny-issi-nighthmare", "western-deathbike-apocalypse",
-			"vapid-apocalypse-dominator"
+			"vapid-apocalypse-dominator", "vapid-imperator-Nightmare"
 		]
 	},
 	{
@@ -104,7 +104,7 @@
 		"order": 160,
 		"note": "amiket nem tudtam máshova rakni",
 		"cars": [
-			"albany-franken-stange", "grotti-brioso-300", "weeny-issi-classic2", "tornado-rat_Rod-", "gallivanter-baller-bt", "vapid-clique-", "dinka-veto-classic", "dinka-veto-modern"
+			"albany-franken-stange",  "weeny-issi-classic2", "tornado-rat_Rod-", "gallivanter-baller-bt", "vapid-clique-", "dinka-veto-classic", "dinka-veto-modern"
 		]
 	},
 	{
@@ -113,8 +113,18 @@
 		"space": 10,
 		"order": 170,
 		"note": "majd átalakítandók",
+		"cars": [		
+			"übermacht-zion-Classic","rUNE-cheburek-","vulcar-fagaola-", "vapid-peyote-", "bravardo-youga-classic"
+		]
+	},
+	{
+		"name": "Casino Penthouse",
+		"aka": "Casino Penthouse",
+		"space": 10,
+		"order": 180,
+		"note": "Enterpise DLC",
 		"cars": [
-			"rUNE-cheburek-", "vapid-peyote-"
+			"dewbauchee-massacro-Racecar", 	"vapid-flash-GT" , "valid-gt_200-", "benefactor-lm_87-", "benefactor-sm_772-", "truffafe-adder-", "declasse-draugur-", "imponte-ruiner-ZZ_8", "grotti-brioso_300-Widebody"
 		]
 	},
 	{
@@ -124,7 +134,7 @@
 		"order": 20,
 		"note": "Los Santos Tuners legjobb kocsijai",
 		"cars": [
-			"vapid-flash-gT","vapid-dominator-ASP", "vapid-dominator-GTT", "dinka-jester-RR","karin-calico-GTF", "karin-sultan-RS_Classic",  "dinka-rT3000-","annis-ZR350-"
+		"vapid-dominator-ASP", "vapid-dominator-GTT", "dinka-jester-RR","karin-calico-GTF", "karin-sultan-RS_Classic",  "dinka-rT3000-","annis-ZR350-"
 		]
 	},
 	{
@@ -134,7 +144,7 @@
 		"order": 120,
 		"note": "Ingyen színes dögök",
 		"cars": [
-			"ocelot-lynx-", "bravardo-buffalo-sprunk", "declasse-stallion-Burger-Shot", "vapid-dominator-piswasser", "bravardo-gauntlet-Redwood", "dinka-blista-compact", "declasse-stallion-topless"
+			"ocelot-lynx-", "bravardo-buffalo-sprunk", "declasse-stallion-Burger-Shot", "vapid-dominator-piswasser", "bravardo-gauntlet-Redwood", "dinka-blista-compact", "declasse-stallion-topless", "pegassi-torero-XO"
 		]
 	},
 	{
@@ -152,7 +162,7 @@
 		"aka": "Benny's cars",
 		"space": 10,
 		"order": 34,
-		"note": "Kocsik Benny előtt és után",
+		"note": " ",
 		"cars": [
 		
 		]
@@ -164,17 +174,17 @@
 		"order": 100,
 		"note": "A villogok velük kategóriák ",
 		"cars": [
-
+			"grotti-brioso-widebody"
 		]
 	},
 	{
-		"name": "South Samble st",
+		"name": "South Shambles st",
 		"aka": "Filmes kocsik",
 		"space": 10,
 		"order": 110,
 		"note": "Kocsik filmekből",
 		"cars": [
-			"imponte-dukes-toretto", "vapid-ellie-", "lCC-sanctus-", "annis-elegyRetro-Custom", "grotti-cheetah-classic",  "ocelot-stomberg-"
+			"imponte-dukes-toretto", "vapid-ellie-", "lCC-sanctus-", "annis-elegyRetro-Custom", "grotti-cheetah-classic",  "ocelot-stomberg-", "maibatsu-penumbraFF-", "dinka-jester-classic","albany-hermes-"
 		]
 	},
 	{
@@ -228,13 +238,23 @@
 		]
 	},
 	{
+		"name": "NightClub B2",
+		"aka": "temp",
+		"space": 10,
+		"order": 35,
+		"note": "temp",
+		"cars": [
+		"dewbauchee-JB700-"
+		]
+	},
+	{
 		"name": "NightClub B3",
 		"aka": "Szolidabb Sportkocsik",
 		"space": 10,
 		"order": 35,
 		"note": "Egyszerűbb sportkocsik",
 		"cars": [
-		
+	
 		]
 	},
 	{
@@ -276,7 +296,7 @@
 		"order": 3,
 		"note": "sportkocsik",
 		"cars": [
-			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "ocelot-swinger-", "grotti-turismo-R", "uberMact-sCI-", "pegassi-zentorno-",  "invetero-croquette-D10", "progen-t20-"
+			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "ocelot-swinger-", "grotti-turismo-R", "uberMact-sCI-", "pegassi-zentorno-",  "invetero-croquette-D10", "progen-t20-", "bravardo-verlierer", "grotti-stinger-GT", "grotti-stinger-Topless"
 		]
 	}
 
