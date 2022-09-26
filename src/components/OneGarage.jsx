@@ -5,7 +5,7 @@ const OneGarage = (props) => {
   return (
     <div
       className=" 
-				mb-3 mx-5 mt-4 border-2 border-black rounded-xl  overflow-hidden
+				mb-3 mx-5 border-2 border-black rounded-xl  overflow-hidden
 				flex 
         flex-col md:flex-row
     

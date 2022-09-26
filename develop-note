@@ -1,0 +1,19 @@
+ Issue1: 
+ the max and min cars function is not a best practice. 
+    - I have refactor the code, that call 1x the function
+    - There's some car, what have a fixed position, not count the space
+    - Some "garage" is flexibile, have no maximum space
+
+Issue2: 
+    - I need a online photo-galery, the img folder is not the best for netlify
+
+for complete phase: 
+    - Build a search field
+    - Every garage shows the max space, free space, and etc.
+
+
+Next phase: 
+    - separate file for every car, more data, more photos what u see, when U click the car and open the modal. 
+
+- note: 
+    -maybe must change the data structure. The car's json contain the id of the garage (and car's place order in the garage)

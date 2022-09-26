@@ -1,5 +1,5 @@
 import carlistJson from "../datas/garages.json";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 const RandomCar = () => {
   const [isCar, setCar] = useState([]);
@@ -51,6 +51,11 @@ const RandomCar = () => {
     const carPic = tryRequire(carName);
     setCar([carPic, carName, garageName.name]);
   };
+
+  useEffect(() => {
+    getRandomCar()
+  }, [])
+  
 
   return (
     <div

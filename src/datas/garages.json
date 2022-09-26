@@ -69,7 +69,7 @@
 	{
 		"name": "Route 68 Facility",
 		"aka": "Katonai gépek",
-		"space": 7,
+		"space": 8,
 		"order": 70,
 		"note": "Amin fegyver van",
 		"cars": [
@@ -81,7 +81,7 @@
 		"aka": "Arcade válogatás",
 		"space": 10,
 		"order": 10,
-		"note": "csak a legjobbak",
+		"note": "Nem kategorizálható",
 		"cars": [
 			 "lapmadati-viseris-", "bF-weevil-","nagasaki-shotaro-", "benefactor-stirling-GT", "albany-rosevelt-valor", "annis-savestra", "shitzu-hakuchou-Drag", "vapid-retinue", "benefactor-BR_8-"
 		]
@@ -124,7 +124,7 @@
 		"order": 180,
 		"note": "Enterpise DLC",
 		"cars": [
-			"dewbauchee-massacro-Racecar", 	"vapid-flash-GT" , "valid-gt_200-", "benefactor-lm_87-", "benefactor-sm_772-", "truffafe-adder-", "declasse-draugur-", "imponte-ruiner-ZZ_8", "grotti-brioso_300-Widebody"
+			"benefactor-lm_87-", "benefactor-sm_772-", "declasse-draugur-", "imponte-ruiner-ZZ_8", "grotti-brioso_300-Widebody", "declasse-vigero-ZX", "dinka-postlude-", "pegassi-torero-XO", "dinka-kanjo-SJ"
 		]
 	},
 	{
@@ -144,7 +144,7 @@
 		"order": 120,
 		"note": "Ingyen színes dögök",
 		"cars": [
-			"ocelot-lynx-", "bravardo-buffalo-sprunk", "declasse-stallion-Burger-Shot", "vapid-dominator-piswasser", "bravardo-gauntlet-Redwood", "dinka-blista-compact", "declasse-stallion-topless", "pegassi-torero-XO"
+			"ocelot-lynx-", "bravardo-buffalo-sprunk", "declasse-stallion-Burger-Shot", "vapid-dominator-piswasser", "bravardo-gauntlet-Redwood", "dinka-blista-compact", "declasse-stallion-topless"
 		]
 	},
 	{
@@ -155,26 +155,6 @@
 		"note": "A kostaka, ahol elfér a Torreador",
 		"cars": [
 			"pegassi-torreador-"
-		]
-	},
-	{
-		"name": "Nightclub B2",
-		"aka": "Benny's cars",
-		"space": 10,
-		"order": 34,
-		"note": " ",
-		"cars": [
-		
-		]
-	},
-	{
-		"name": "Penthouse Garage",
-		"aka": "Virítós kocsik",
-		"space": 10,
-		"order": 100,
-		"note": "A villogok velük kategóriák ",
-		"cars": [
-			"grotti-brioso-widebody"
 		]
 	},
 	{
@@ -192,7 +172,7 @@
 		"aka": "Agency",
 		"space": 20,
 		"order": 80,
-		"note": "Agency kocsik, és pár jobb",
+		"note": "Agency kocsik, és pár akció",
 		"cars": [
 			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec","declasse-scramjet-", "enus-paragon-Armored", "hVY-nightshark-", "imponte-deluxo-", "pegassi-opressor-MK1", "karin-kuruma-Armored"
 		]
@@ -200,7 +180,7 @@
 	{
 		"name": "Pegazus and Menu cars",
 		"aka": "Lehívható járgányok",
-		"space": 0,
+		"space": 7,
 		"order": 500,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
@@ -210,7 +190,7 @@
 	{
 		"name": "Hangár és Pegazus",
 		"aka": "Szárnyak",
-		"space": 0,
+		"space": 11,
 		"order": 510,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
@@ -220,7 +200,7 @@
 	{
 		"name": "Nem kocsi és nem repül",
 		"aka": "Extrák",
-		"space": 0,
+		"space": 4,
 		"order": 520,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
@@ -230,7 +210,7 @@
 	{
 		"name": "Terrorbyte",
 		"aka": "Terrorbyte",
-		"space": 6,
+		"space": 1,
 		"order": 145,
 		"note": "nem szeretem az OP MK2-t, eldugjuk",
 		"cars": [
@@ -244,7 +224,7 @@
 		"order": 35,
 		"note": "temp",
 		"cars": [
-		"dewbauchee-JB700-"
+		"dewbauchee-JB700-",  	"vapid-flash-GT" , "valid-gb_200-",  "truffafe-adder-", "dewbauchee-massacro-Racecar",  "karin-190z-"
 		]
 	},
 	{
