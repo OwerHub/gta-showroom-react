@@ -11,7 +11,7 @@ const CarCard = (props) => {
     try {
       return require("../imgs/tempCarPics/" + incomingURL + ".png");
     } catch {
-      console.log("nincs kép", incomingURL);
+      //console.log("nincs kép", incomingURL);
       return require("../imgs/CarPlaceholder2.jpg");
     }
   };
@@ -27,7 +27,9 @@ const CarCard = (props) => {
     <div
       className="
 				carCard 
-				mt-8 xs:mt-2    m-2 w-5/6 xs:w-1/6 border-2 border-black  rounded overflow-hidden bg-black
+				mt-8 xs:mt-2 
+        m-2 w-5/6 xs:w-1/6 border-2 border-black
+        rounded overflow-hidden bg-black
 
 		"
     >
