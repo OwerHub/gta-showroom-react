@@ -33,7 +33,7 @@ const ShowRoom = () => {
     // not best practice, 2x call the function
     setMaxCar(countCar(garageJson)[0]);
     setMaxSpace(countCar(garageJson)[1]);
-    console.log(isMaxCar)
+    console.log(countCar(garageJson)[0])
     setGarageList(garageJson);
   }, []);
 

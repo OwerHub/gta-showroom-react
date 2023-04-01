@@ -1,32 +1,5 @@
 [
   {
-    "id": 0,
-    "manufacturer": "gyártó",
-    "name": "név típusnév",
-    "variant": "változat",
-    "other": "más fontos infó a névvel ",
-    "dlc": "dlc",
-    "location": " a garázs, ahol megtaláltható",
-    "vechicleClass": "super, stb",
-    "bodyStyle": "nem száz, hogy kell",
-    "flags": [
-      "bármi lehet"
-    ],
-    "note": "megjegyzés",
-    "stars": 5,
-    "media": {
-      "photos": [
-        "előlről",
-        "hátulról",
-        "stb"
-      ],
-      "videos": [
-        "ha van"
-      ],
-      "wiki": "fandom oldal"
-    }
-  },
-  {
     "id": 1,
     "manufacturer": "BF",
     "name": "Raptor",
@@ -438,7 +411,224 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Eudora"
     }
+  },
+  {
+    "id": 16,
+    "manufacturer": "Übermacht",
+    "name": "Cypher",
+    "variant": "",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-door sports coupe",
+    "flags": [
+      "Tuners"
+    ],
+    "originals": [
+      "BMW M2 (F87)"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Cypher"
+    }
+  },
+  {
+    "id": 17,
+    "manufacturer": "Emperor",
+    "name": "Vectre",
+    "variant": "",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-door sports coupe",
+    "flags": [
+      "Tuners"
+    ],
+    "originals": [
+      "Lexus RC F"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Vectre"
+    }
+  },
+  {
+    "id": 18,
+    "manufacturer": "Annis",
+    "name": "Euros",
+    "variant": "",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-door sports coupe",
+    "flags": [
+      "Tuners"
+    ],
+    "originals": [
+      "Nissan 300ZX (Z32)"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Euros"
+    }
+  },
+  {
+    "id": 19,
+    "manufacturer": "Obey",
+    "name": "Tailgater",
+    "variant": "S",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sedans",
+    "bodyStyle": "4-door sedan",
+    "flags": [
+      "Tuners"
+    ],
+    "originals": [
+      "Audi RS3 Sedan (8V) 17-20"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tailgater_S"
+    }
+  },
+  {
+    "id": 20,
+    "manufacturer": "Karin",
+    "name": "Futo",
+    "variant": "GTX",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sports",
+    "bodyStyle": "3-door liftback",
+    "flags": [
+      "Tuners",
+      "Bosozokuable?"
+    ],
+    "originals": [
+      "Toyota Sprinter Trueno (AE86) liftback 83-87"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Futo_GTX"
+    }
+  },
+  {
+    "id": 21,
+    "manufacturer": "Vulcar",
+    "name": "Warrener",
+    "variant": "HKR",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sedans",
+    "bodyStyle": "2-door pick-up",
+    "flags": [
+      "Tuners",
+      "Bosozokuable?",
+      "Custom to drift"
+    ],
+    "originals": [
+      " Nissan/Datsun Sunny pick-up truck"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Warrener_HKR"
+    }
+  },
+  {
+    "id": 22,
+    "manufacturer": "Annis",
+    "name": "Remus",
+    "variant": "",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-door coupe",
+    "flags": [
+      "Tuners"
+    ],
+    "originals": [
+      "Nissan Silvia (S13) coupe 88-94"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Remus"
+    }
+  },
+  {
+    "id": 23,
+    "manufacturer": "Karin",
+    "name": "Remus",
+    "variant": "",
+    "other": "",
+    "dlc": "Los Santos Tuners",
+    "location": "Del Perro Hts, 7",
+    "vechicleClass": "Coupes",
+    "bodyStyle": "2-door coupe",
+    "flags": [
+      "Tuners"
+    ],
+    "originals": [
+      "Honda Prelude"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Previon"
+    }
   }
-  
-
 ]
