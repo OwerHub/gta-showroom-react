@@ -147,7 +147,7 @@
     "vechicleClass": "Sport Classics",
     "bodyStyle": "2-door hardtop convertible",
     "flags": [
-      "olds",
+      "vintage",
       "Benny's customable",
       "Lowrider"
     ],
@@ -164,5 +164,281 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Tornado"
     }
+  },
+  {
+    "id": 6,
+    "manufacturer": "BF",
+    "name": "Surfer",
+    "variant": "Custom",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Vans",
+    "bodyStyle": "4-door van",
+    "flags": [
+      "hippie",
+      "fun"
+    ],
+    "originals": [
+      "Wolkswagen t1"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Surfer_Custom"
+    }
+  },
+  {
+    "id": 7,
+    "manufacturer": "DeclasseBF",
+    "name": "Tulip",
+    "variant": "M-100",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-Door Muscle Car",
+    "flags": [
+    ],
+    "originals": [
+      "Chevrolet Malibu Coupe, 4th gen"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tulip_M-100"
+    }
+  },
+  {
+    "id": 8,
+    "manufacturer": "Annis",
+    "name": "300R",
+    "variant": "",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-Door Fastback Coupe",
+    "flags": [
+      "Imani"
+    ],
+    "originals": [
+      "Nissan Z (RZ34)",
+      "Fairlady Z Customized Proto (grille)",
+      "Nissan S30 (headlights)"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/300R"
+    }
+  },
+  {
+    "id": 9,
+    "manufacturer": "Declasse",
+    "name": "Tahoma",
+    "variant": "Coupe",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-Door Muscle Car",
+    "flags": [
+    ],
+    "originals": [
+      "Chevrolet Monte Carlo 78-80"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tahoma_Coupe"
+    }
+  },
+  {
+    "id": 10,
+    "manufacturer": "Zirconium",
+    "name": "Journey",
+    "variant": "II",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Vans",
+    "bodyStyle": "Class A motorhome",
+    "flags": [
+      "Dax", "Motorhome"
+    ],
+    "originals": [
+      "Triple E motorhomes, 77-80 "
+    ],
+    "note": "Dex's home",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Journey_II"
+    }
+  },
+  {
+    "id": 11,
+    "manufacturer": "Western",
+    "name": "Powersurge",
+    "variant": "",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "electric sports bike",
+    "flags": [
+      "Electric", 
+      "Motorcycle",
+      "Accceleration"
+    ],
+    "originals": [
+      "Harley-Davidson LiveWire"
+    ],
+    "note": "Extremly good acceleration",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Powersurge"
+    }
+  },
+  {
+    "id": 12,
+    "manufacturer": "Classique",
+    "name": "Broadway",
+    "variant": "",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door ponton coupe",
+    "flags": [
+      "vintage"
+    ],
+    "originals": [
+      "Cadillac Series 62, 1947"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Broadway"
+    }
+  },
+  {
+    "id": 13,
+    "manufacturer": "Toundra",
+    "name": "Panthere",
+    "variant": "",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-Door Sports Coupe",
+    "flags": [
+      ""
+    ],
+    "originals": [
+      "Alpine A110"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Panthere"
+    }
+  },
+  {
+    "id": 14,
+    "manufacturer": "Karin",
+    "name": "Everon",
+    "variant": "Hotring",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-door stock-racing truck",
+    "flags": [
+      "Nascar"
+    ],
+    "originals": [
+      "Toyota Tundra TRD Pro NASCAR, 2022",
+      "Ford F-150 NASCAR Trucks, 19-21"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Hotring_Everon"
+    }
+  },
+  {
+    "id": 15,
+    "manufacturer": "Willard",
+    "name": "Eudora",
+    "variant": "",
+    "other": "",
+    "dlc": "Drug Wars",
+    "location": "3 Alta St, Apt 57",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "4-door Vintage Sedan",
+    "flags": [
+      "vintage"
+    ],
+    "originals": [
+      "Buick Electra 1960"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Eudora"
+    }
   }
+  
+
 ]
