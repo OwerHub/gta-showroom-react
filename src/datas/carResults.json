@@ -1,0 +1,168 @@
+[
+  {
+    "id": 0,
+    "manufacturer": "gyártó",
+    "name": "név típusnév",
+    "variant": "változat",
+    "other": "más fontos infó a névvel ",
+    "dlc": "dlc",
+    "location": " a garázs, ahol megtaláltható",
+    "vechicleClass": "super, stb",
+    "bodyStyle": "nem száz, hogy kell",
+    "flags": [
+      "bármi lehet"
+    ],
+    "note": "megjegyzés",
+    "stars": 5,
+    "media": {
+      "photos": [
+        "előlről",
+        "hátulról",
+        "stb"
+      ],
+      "videos": [
+        "ha van"
+      ],
+      "wiki": "fandom oldal"
+    }
+  },
+  {
+    "id": 1,
+    "manufacturer": "BF",
+    "name": "Raptor",
+    "variant": "",
+    "other": "",
+    "dlc": "Bikers",
+    "location": "Exeptionalist Way",
+    "vechicleClass": "Sports",
+    "bodyStyle": "Roadster trike",
+    "flags": [
+      "3 wheel",
+      "trike"
+    ],
+    "originals": [
+      "Campagna T-Rex"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Raptor"
+    }
+  },
+  {
+    "id": 2,
+    "manufacturer": "Bravardo",
+    "name": "Gauntlet",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Exeptionalist Way",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door muscle car",
+    "flags": [
+      "american"
+    ],
+    "originals": [
+      " 2008-2013 Dodge Challenger"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Gauntlet"
+    }
+  },
+  {
+    "id": 3,
+    "manufacturer": "Enus",
+    "name": "Huntley",
+    "variant": "S",
+    "other": "",
+    "dlc": "Bikers",
+    "location": "Exeptionalist Way",
+    "vechicleClass": "SUVs",
+    "bodyStyle": "4-door SUV",
+    "flags": [
+      ""
+    ],
+    "originals": [
+      "Bentley EXP 9 F"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Huntley_S"
+    }
+  },
+  {
+    "id": 4,
+    "manufacturer": "Enus",
+    "name": "Windsor",
+    "variant": "",
+    "other": "",
+    "dlc": "Ill-Gotten Gains Part 1",
+    "location": "Exeptionalist Way",
+    "vechicleClass": "Coupes",
+    "bodyStyle": "2-door vintage convertible",
+    "flags": [
+      "luxury",
+      "sport"
+    ],
+    "originals": [
+      "70's Jaugar E-type"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Windsor"
+    }
+  },
+  {
+    "id": 5,
+    "manufacturer": "Declasse",
+    "name": "Tornado ",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Exeptionalist Way",
+    "vechicleClass": "Sport Classics",
+    "bodyStyle": "2-door hardtop convertible",
+    "flags": [
+      "olds",
+      "Benny's customable",
+      "Lowrider"
+    ],
+    "originals": [
+      "70's Jaugar E-type"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tornado"
+    }
+  }
+]
