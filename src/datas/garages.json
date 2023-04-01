@@ -4,16 +4,16 @@
 		"space": 10,
 		"order": 180,
 		"note": "első garázs, ide raktam a cuccaim",
-		"cars": ["bF-raptor-", "bravardo-gauntlet-", "enus-huntley-S", "enus-vindsor-","declasse-tornado-"]
+		"cars": ["bravardo-gauntlet-", "bF-raptor-", "enus-huntley-S", "enus-vindsor-","declasse-tornado-"]
 	},
 	{
 		"name": "3 Alta St, Apt 57",
-		"aka": "Akciógépek",
+		"aka": "Drug Wars gépek",
 		"space": 10,
 		"order": 60,
 		"note": "Per moment üres",
 		"cars": [
-			
+			"Surfer-Custom", "Tuilp-M-100", "300R", "Tahoma-Coupe", "Journey-II", "Powersurge", "Broadway", "Panthere", "Hotring-Everon", "Eudora"
 		]
 	},
 	{
@@ -33,7 +33,7 @@
 		"space": 10,
 		"note": "Terepgépek",
 		"cars": [
-			"vapid-raid-desert","maxwell-vagrant-", "coil-brawler-", "annis-hellion-", "vapid-sandking-XL"
+			"vapid-raid-desert","maxwell-vagrant-", "coil-brawler-", "annis-hellion-", "vapid-sandking-XL" , "XXX-Seminole-Frontier"
 		]
 	},
 	{
@@ -43,7 +43,7 @@
 		"space": 10,
 		"note": "Az összes kiemelt motoros, állat cuccom",
 		"cars": [
-			"schyster-deviant-", "vapid-hotknife-", "imponte-duke-oDeath-",  "imponte-phoenix-", "declasse-tulip-", "imponte-dukes-Beater", "peyote-gasser-topless", "imponte-nightsade"
+			"schyster-deviant-", "vapid-hotknife-", "imponte-duke-oDeath-",  "imponte-phoenix-", "declasse-tulip-", "imponte-dukes-Beater", "peyote-gasser-topless", "imponte-nightsade" , "vamos", "tampa"
 		]
 	},
 	{
@@ -69,7 +69,7 @@
 	{
 		"name": "Route 68 Facility",
 		"aka": "Katonai gépek",
-		"space": 8,
+		"space": 7,
 		"order": 70,
 		"note": "Amin fegyver van",
 		"cars": [
@@ -81,7 +81,7 @@
 		"aka": "Arcade válogatás",
 		"space": 10,
 		"order": 10,
-		"note": "Nem kategorizálható",
+		"note": "csak a legjobbak",
 		"cars": [
 			 "lapmadati-viseris-", "bF-weevil-","nagasaki-shotaro-", "benefactor-stirling-GT", "albany-rosevelt-valor", "annis-savestra", "shitzu-hakuchou-Drag", "vapid-retinue", "benefactor-BR_8-"
 		]
@@ -94,7 +94,7 @@
 		"note": "Harci gépek az Arénába",
 		"cars": [
 			"bravardo-sasquatch-apocalypse", "annis-zR_380-apocalypse", "weeny-issi-nighthmare", "western-deathbike-apocalypse",
-			"vapid-apocalypse-dominator", "vapid-imperator-Nightmare"
+			"vapid-apocalypse-dominator", "vapid-imperator-Nightmare", "apocalypse-cerberus"
 		]
 	},
 	{
@@ -112,9 +112,9 @@
 		"aka": "Begyűjtő B2",
 		"space": 10,
 		"order": 170,
-		"note": "majd átalakítandók",
+		"note": "Régi keleti vasak, és átalakítandók",
 		"cars": [		
-			"übermacht-zion-Classic","rUNE-cheburek-","vulcar-fagaola-", "vapid-peyote-", "bravardo-youga-classic"
+			"übermacht-zion-Classic","rUNE-cheburek-","vulcar-fagaola-", "vapid-peyote-",  "bF-club-"
 		]
 	},
 	{
@@ -124,7 +124,7 @@
 		"order": 180,
 		"note": "Enterpise DLC",
 		"cars": [
-			"benefactor-lm_87-", "benefactor-sm_772-", "declasse-draugur-", "imponte-ruiner-ZZ_8", "grotti-brioso_300-Widebody", "declasse-vigero-ZX", "dinka-postlude-", "pegassi-torero-XO", "dinka-kanjo-SJ"
+			 	  "benefactor-lm_87-", "benefactor-sm_772-",  "declasse-draugur-", "postlde", "imponte-ruiner-ZZ_8", "grotti-brioso_300-Widebody", "pegassi-torero-XO", "kanjoJS", "weevil-Custom", "vigero-Zx"
 		]
 	},
 	{
@@ -134,7 +134,7 @@
 		"order": 20,
 		"note": "Los Santos Tuners legjobb kocsijai",
 		"cars": [
-		"vapid-dominator-ASP", "vapid-dominator-GTT", "dinka-jester-RR","karin-calico-GTF", "karin-sultan-RS_Classic",  "dinka-rT3000-","annis-ZR350-"
+		"vapid-dominator-ASP", "vapid-dominator-GTT", "dinka-jester-RR","karin-calico-GTF", "karin-sultan-RS_Classic",  "dinka-rT3000-","annis-ZR350-", "XX-SENTINELCLASSI"
 		]
 	},
 	{
@@ -157,6 +157,7 @@
 			"pegassi-torreador-"
 		]
 	},
+
 	{
 		"name": "South Shambles st",
 		"aka": "Filmes kocsik",
@@ -164,7 +165,7 @@
 		"order": 110,
 		"note": "Kocsik filmekből",
 		"cars": [
-			"imponte-dukes-toretto", "vapid-ellie-", "lCC-sanctus-", "annis-elegyRetro-Custom", "grotti-cheetah-classic",  "ocelot-stomberg-", "maibatsu-penumbraFF-", "dinka-jester-classic","albany-hermes-"
+			"imponte-dukes-toretto", "vapid-ellie-", "lCC-sanctus-", "annis-elegyRetro-Custom", "grotti-cheetah-classic",  "ocelot-stomberg-", "maibatsu-penumbraFF-", "dinka-jester-classic","albany-hermes-", "bravardo-youga-classic"
 		]
 	},
 	{
@@ -172,15 +173,15 @@
 		"aka": "Agency",
 		"space": 20,
 		"order": 80,
-		"note": "Agency kocsik, és pár akció",
+		"note": "Agency kocsik, és pár jobb",
 		"cars": [
-			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec","declasse-scramjet-", "enus-paragon-Armored", "hVY-nightshark-", "imponte-deluxo-", "pegassi-opressor-MK1", "karin-kuruma-Armored"
+			"dewbauchee-champion-", "mamomoth-patriot-Mil_spec","declasse-scramjet-", "enus-paragon-Armored", "hVY-nightshark-", "imponte-deluxo-", "pegassi-opressor-MK1", "karin-kuruma-Armored", "Ocelot-Virtue"
 		]
 	},
 	{
 		"name": "Pegazus and Menu cars",
 		"aka": "Lehívható járgányok",
-		"space": 7,
+		"space": 0,
 		"order": 500,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
@@ -190,7 +191,7 @@
 	{
 		"name": "Hangár és Pegazus",
 		"aka": "Szárnyak",
-		"space": 11,
+		"space": 0,
 		"order": 510,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
@@ -200,7 +201,7 @@
 	{
 		"name": "Nem kocsi és nem repül",
 		"aka": "Extrák",
-		"space": 4,
+		"space": 0,
 		"order": 520,
 		"note": "Amiket nem lehet garázsban tárolni ",
 		"cars": [
@@ -210,7 +211,7 @@
 	{
 		"name": "Terrorbyte",
 		"aka": "Terrorbyte",
-		"space": 1,
+		"space": 6,
 		"order": 145,
 		"note": "nem szeretem az OP MK2-t, eldugjuk",
 		"cars": [
@@ -224,7 +225,7 @@
 		"order": 35,
 		"note": "temp",
 		"cars": [
-		"dewbauchee-JB700-",  	"vapid-flash-GT" , "valid-gb_200-",  "truffafe-adder-", "dewbauchee-massacro-Racecar",  "karin-190z-"
+		"dewbauchee-JB700-", "vapid-flash-GT" , "valid-gb_200-","truffafe-adder-","dewbauchee-massacro-Racecar", "190z"
 		]
 	},
 	{
@@ -266,7 +267,7 @@
 		"cars": [
 			"pfister-growler-", "pfister-comet-S2_Cabrio", 	"bravardo-banshee-900R_topless", "truffade-nero-custom", "albany-manana-Custom", "pfister-comet-RetroCust", "willard-faction-Donk", "declasse-moonbeam-Custom", "declasse-yosemite-Rancher", "karin-sultan-RS", "declasse-sabre-Custom", "bravardo-gauntlet-Classic_Custom", "progen-italy_GTB-Custom",
 			"declasse-sabreT-Custom",
-			"pfister-comet-S2", "pfister-comet-Safari"
+			"pfister-comet-S2", "pfister-comet-Safari", "specter-custom"
 		]
 	},
 	{
@@ -276,7 +277,7 @@
 		"order": 3,
 		"note": "sportkocsik",
 		"cars": [
-			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "ocelot-swinger-", "grotti-turismo-R", "uberMact-sCI-", "pegassi-zentorno-",  "invetero-croquette-D10", "progen-t20-", "bravardo-verlierer", "grotti-stinger-GT", "grotti-stinger-Topless"
+			"overflod-autarch-", "pfister-neon-", "progen-gP1-", "ocelot-XA_21-", "ocelot-swinger-", "grotti-turismo-R", "uberMact-sCI-", "pegassi-zentorno-",  "invetero-croquette-D10", "progen-t20-", "bravardo-verlierer", "grotti-stinger-GT", "grotti-stinger-Topless", "pegassi-infernus-classic"
 		]
 	}
 
