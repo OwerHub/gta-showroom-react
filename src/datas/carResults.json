@@ -607,7 +607,7 @@
   {
     "id": 23,
     "manufacturer": "Karin",
-    "name": "Remus",
+    "name": "Previon",
     "variant": "",
     "other": "",
     "dlc": "Los Santos Tuners",
@@ -629,6 +629,143 @@
         ""
       ],
       "wiki": "https://gta.fandom.com/wiki/Previon"
+    }
+  },
+  {
+    "id": 24,
+    "manufacturer": "Vapid",
+    "name": "Desert Raid",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Unit 2 Popular St",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Trophy truck",
+    "flags": [
+      "Offroad"
+    ],
+    "originals": [
+      "Red Bull SMG Buggy"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Desert_Raid"
+    }
+  },
+  {
+    "id": 25,
+    "manufacturer": "Maxwell",
+    "name": "Vagrant",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Unit 2 Popular St",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Off-road buggy",
+    "flags": [
+      "Offroad"
+    ],
+    "originals": [
+      "Ariel Nomad"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Vagrant"
+    }
+  },
+  {
+    "id": 26,
+    "manufacturer": "Annis",
+    "name": "Helion",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Unit 2 Popular St",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "2-door pickup truck",
+    "flags": [
+      "Offroad"
+    ],
+    "originals": [
+      "Nissan Patrol Safari Y60"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Hellion"
+    }
+  },
+  {
+    "id": 27,
+    "manufacturer": "Vapid",
+    "name": "Sandking",
+    "variant": "XL",
+    "other": "",
+    "dlc": "",
+    "location": "Unit 2 Popular St",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "4-door pickup truck",
+    "flags": [
+      "Offroad",
+      "Lifted-SuperCharger"
+    ],
+    "originals": [
+      "Ford Super Duty 3rd geb"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Sandking_XL"
+    }
+  },
+  {
+    "id": 28,
+    "manufacturer": "Canis",
+    "name": "Seminole",
+    "variant": "Frontier",
+    "other": "",
+    "dlc": "",
+    "location": "Unit 2 Popular St",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "4-door SUV",
+    "flags": [
+      "Offroad"
+   
+    ],
+    "originals": [
+      "Jeep Cherokee"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Sandking_XL"
     }
   }
 ]
