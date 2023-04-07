@@ -1361,5 +1361,90 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Chimera"
     }
-  }
+  },
+  {
+    "id": 46,
+    "manufacturer": "BF",
+    "name": "Dune",
+    "variant": "FAV",
+    "other": "",
+    "dlc": "Gunrunning",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Fast-attack buggy",
+    "flags": [
+      "Military",
+      "Weaponized"
+    ],
+    "originals": [
+      "tubular frame chassis"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Dune_FAV"
+    }
+  } ,
+  {
+    "id": 47,
+    "manufacturer": "RUNE",
+    "name": "Zhaba",
+    "variant": "",
+    "other": "",
+    "dlc": "Casino Heist",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "All-terrain vehicle",
+    "flags": [
+      "Military",
+      "Armored",
+      "Waterable"
+    ],
+    "originals": [
+      "SHERP ATV,"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Zhaba"
+    }
+  },
+  {
+    "id": 48,
+    "manufacturer": "Bravado",
+    "name": "Half-track",
+    "variant": "",
+    "other": "",
+    "dlc": "Gunrunning",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Fast-attack buggy",
+    "flags": [
+      "Military",
+      "Weaponized"
+    ],
+    "originals": [
+      "M3 Half-track"
+    ],
+    "note": "Can use Anti-Aircraft Trailer",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Half-track"
+    }
+  } ,
 ]
