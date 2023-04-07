@@ -1153,5 +1153,213 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Vortex_(motorcycle)"
     }
+  },
+  {
+    "id": 38,
+    "manufacturer": "Maibatsu",
+    "name": "Manchez",
+    "variant": "Manchez",
+    "other": "",
+    "dlc": "The Cayo Perico Heist",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Military off-road motorcycle",
+    "flags": [
+    ],
+    "originals": [
+      "500cc KTM"
+    ],
+    "note": "one of the best wheelie bike",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Manchez_Scout"
+    }
+  },
+  {
+    "id": 39,
+    "manufacturer": "Shitzu",
+    "name": "Hakuchou",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Sports bike",
+    "flags": [
+    ],
+    "originals": [
+      " Suzuki Hayabusa, 08"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Hakuchou"
+    }
+  },
+  {
+    "id": 40,
+    "manufacturer": "Pegassi",
+    "name": "Bati 801",
+    "variant": "RR",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Sports bike",
+    "flags": [
+    ],
+    "originals": [
+      " Ducati 848"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Bati_800"
+    }
+  },
+  {
+    "id": 41,
+    "manufacturer": "Nagasaki",
+    "name": "Blazer",
+    "variant": "Hot Rod",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Quad bike",
+    "flags": [
+    ],
+    "originals": [
+      "Yamaha YFZ450 '12"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Hot_Rod_Blazer"
+    }
+  },
+  {
+    "id": 42,
+    "manufacturer": "Dinka",
+    "name": "Verus ",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Quad bike",
+    "flags": [
+    ],
+    "originals": [
+      " Arctic Cat Alterra 570"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Verus"
+    }
+  },
+  {
+    "id": 43,
+    "manufacturer": "Dinka",
+    "name": "Verus",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Quad bike",
+    "flags": [
+    ],
+    "originals": [
+      "Arctic Cat Alterra 570"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Verus"
+    }
+  },
+  {
+    "id": 44,
+    "manufacturer": "Nagasaki",
+    "name": "Blazer",
+    "variant": "Street",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Quad bike",
+    "flags": [
+    ],
+    "originals": [
+      "Spy Racing Quad"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Street_Blazer"
+    }
+  },
+  {
+    "id": 45,
+    "manufacturer": "Nagasaki",
+    "name": "Blazer",
+    "variant": "Street",
+    "other": "",
+    "dlc": "",
+    "location": "0120 Murrieta Heights",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Chopper-style tricycle",
+    "flags": [
+    ],
+    "originals": [
+      "Custom Trike"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Chimera"
+    }
   }
 ]
