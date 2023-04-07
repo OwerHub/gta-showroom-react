@@ -134,7 +134,7 @@
 		"order": 20,
 		"note": "Los Santos Tuners legjobb kocsijai",
 		"cars": [
-		"vapid-dominator-ASP", "vapid-dominator-GTT", "dinka-jester-RR","karin-calico-GTF", "karin-sultan-RS_Classic",  "dinka-rT3000-","annis-ZR350-", "ubermacht-sentinel-classic", "bravardo-gauntlet-hellfire"
+		"vapid-dominator-ASP", "vapid-dominator-GTT", "dinka-jester-RR","karin-calico-GTF", "karin-sultan-RS_Classic",  "dinka-rT3000-","annis-ZR350-"
 		]
 	},
 	{
@@ -235,7 +235,7 @@
 		"order": 35,
 		"note": "Egyszerűbb sportkocsik",
 		"cars": [
-	
+			"lampadati-casco-", "ubermacht-sentinel-classic", "bravardo-gauntlet-hellfire"
 		]
 	},
 	{

@@ -969,12 +969,12 @@
     }
   },
   {
-    "id": 34,
+    "id": 35,
     "manufacturer": "Declasse",
     "name": "Tampa",
     "variant": "",
     "other": "",
-    "dlc": "Festive Surprise 2015 ",
+    "dlc": "Festive Surprise 2015",
     "location": "331 Supply Street",
     "vechicleClass": "Muscle",
     "bodyStyle": "2-door muscle car",
@@ -994,6 +994,164 @@
         ""
       ],
       "wiki": "https://gta.fandom.com/wiki/Tampa"
+    }
+  },
+  {
+    "id": 36,
+    "manufacturer": "Dinka",
+    "name": "Akuma",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Great Chaparal Clubhouse",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Streetfighter",
+    "flags": [
+    ],
+    "originals": [
+      "Buell XB12S"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Akuma"
+    }
+  },
+  {
+    "id": 37,
+    "manufacturer": "Pegassi",
+    "name": "Vortex",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Great Chaparal Clubhouse",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Streetfighter",
+    "flags": [
+    ],
+    "originals": [
+      "Ducati 1199 Panigale"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Vortex_(motorcycle)"
+    }
+  },
+  {
+    "id": 38,
+    "manufacturer": "Western Motorcycle Company",
+    "name": "Zombie",
+    "variant": "Chopper",
+    "other": "",
+    "dlc": "",
+    "location": "Great Chaparal Clubhouse",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Chopper",
+    "flags": [
+    ],
+    "originals": [
+      "Exile Hotrod"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Zombie"
+    }
+  },
+  {
+    "id": 39,
+    "manufacturer": "Western Motorcycle Company",
+    "name": "Rat Bike",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Great Chaparal Clubhouse",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Rat Bike",
+    "flags": [
+      "rat"
+    ],
+    "originals": [
+      "Harley Davidson KKF 14"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Rat_Bike"
+    }
+  },
+  {
+    "id": 40,
+    "manufacturer": "Western Motorcycle Company",
+    "name": "Sovereign ",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Great Chaparal Clubhouse",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Roadcruiser",
+    "flags": [
+      "July-4"
+    ],
+    "originals": [
+      "Harley-Davidson Road King FLHP"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Sovereign"
+    }
+  },
+  {
+    "id": 37,
+    "manufacturer": "Pegassi",
+    "name": "Vortex",
+    "variant": "2",
+    "other": "",
+    "dlc": "",
+    "location": "Great Chaparal Clubhouse",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Streetfighter",
+    "flags": [
+    ],
+    "originals": [
+      "Ducati 1199 Panigale"
+    ],
+    "note": "2nd version of Vortex",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Vortex_(motorcycle)"
     }
   }
 ]
