@@ -767,5 +767,233 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Sandking_XL"
     }
+  },
+  {
+    "id": 29,
+    "manufacturer": "Schyster",
+    "name": "Deviant",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door hardtop",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle"
+    ],
+    "originals": [
+      "Javelin AMX Defiant,"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Deviant"
+    }
+  },
+  {
+    "id": 30,
+    "manufacturer": "Vapid",
+    "name": "Hotknife",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door hotrod",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle",
+      "Hotrod"
+    ],
+    "originals": [
+      "Ford Model A coupe 31, hotrod"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Hotknife"
+    }
+  },
+  {
+    "id": 31,
+    "manufacturer": "Imponte",
+    "name": "Duke",
+    "variant": "O'Death",
+    "other": "",
+    "dlc": "",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door muscle car",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle",
+      "Armored"
+    ],
+    "originals": [
+      "Dodge Charger 68-70 "
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Duke_O%27Death"
+    }
+  },
+  {
+    "id": 31,
+    "manufacturer": "Imponte",
+    "name": "Phoenix",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door muscle car",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle"
+    ],
+    "originals": [
+      "Pontiac trans-am, (FireBird)",
+      "Chevrolet Camaro 82-92"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Phoenix"
+    }
+  },
+  {
+    "id": 32,
+    "manufacturer": "Declasse",
+    "name": "Tulip",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "4-door hardtop",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle"
+    ],
+    "originals": [
+      "Chevelle Malibu 72"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tulip"
+    }
+  },
+  {
+    "id": 33,
+    "manufacturer": "Vapid",
+    "name": "Peyote",
+    "variant": "Gasser",
+    "other": "",
+    "dlc": "The Diamond Casino & Resort",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "Custom hotrod/gasser",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle",
+      "Gasser"
+    ],
+    "originals": [
+      "Ford Thunderbird 55, Gasser"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Peyote_Gasser"
+    }
+  },
+  {
+    "id": 34,
+    "manufacturer": "Imponte",
+    "name": "Nightshade",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door muscle car",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle"
+    ],
+    "originals": [
+      "Chevrolet Camaro, 70-73"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Nightshade"
+    }
+  },
+  {
+    "id": 34,
+    "manufacturer": "Declasse",
+    "name": "Tampa",
+    "variant": "",
+    "other": "",
+    "dlc": "Festive Surprise 2015 ",
+    "location": "331 Supply Street",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door muscle car",
+    "flags": [
+      "Lifted-SuperCharger",
+      "Muscle"
+    ],
+    "originals": [
+      "Chevrolet Corvair Monza 65-69"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tampa"
+    }
   }
 ]
