@@ -1577,7 +1577,7 @@
       "Weaponized"
     ],
     "originals": [
-      " PL-01 Tank"
+      "PL-01 Tank"
     ],
     "note": "3 player can use 3 different Weapon",
     "media": {
@@ -1591,23 +1591,21 @@
     }
   },
   {
-    "id": 52,
-    "manufacturer": "unknown",
-    "name": "Khanjali",
+    "id": 53,
+    "manufacturer": "Lampadati",
+    "name": "Viseris",
     "variant": "",
     "other": "",
     "dlc": "Doomsday Heist",
-    "location": "Route 68 Facility",
-    "vechicleClass": "Military",
-    "bodyStyle": "Light tank",
+    "location": "Arcade",
+    "vechicleClass": "Sports Classics",
+    "bodyStyle": "2-door sports car",
     "flags": [
-      "Military",
-      "Weaponized"
     ],
     "originals": [
-      " PL-01 Tank"
+      "De Tomaso Pantera GT5"
     ],
-    "note": "3 player can use 3 different Weapon",
+    "note": "",
     "media": {
       "photos": [
         ""
@@ -1615,8 +1613,223 @@
       "videos": [
         ""
       ],
-      "wiki": "https://gta.fandom.com/wiki/TM-02_Khanjali"
+      "wiki": "https://gta.fandom.com/wiki/Viseris"
+    }
+  },
+  {
+    "id": 54,
+    "manufacturer": "BF",
+    "name": "Weevil",
+    "variant": "",
+    "other": "",
+    "dlc": "The Cayo Perico Heist",
+    "location": "Arcade",
+    "vechicleClass": "Sports Classics",
+    "bodyStyle": "2-door compact",
+    "flags": [
+      "Filmable"
+    ],
+    "originals": [
+      " Volkswagen Type 1 ,Beetle"
+    ],
+    "note": "Buggy",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Weevil"
+    }
+  },
+  {
+    "id": 55,
+    "manufacturer": "BF",
+    "name": "Weevil",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Arcade",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Sports bike",
+    "flags": [
+      "Filmable"
+    ],
+    "originals": [
+      "Lotus C-01"
+    ],
+    "note": "Tron Motor",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Shotaro"
+    }
+  },
+  {
+    "id": 56,
+    "manufacturer": "Benefactor",
+    "name": "Stirling",
+    "variant": "GT",
+    "other": "",
+    "dlc": "",
+    "location": "Arcade",
+    "vechicleClass": "Sports Classics",
+    "bodyStyle": "2-door coupe",
+    "flags": [
+    ],
+    "originals": [
+      "Mercedes-Benz 300 SL"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Stirling_GT"
+    }
+  },
+  {
+    "id": 57,
+    "manufacturer": "Albany",
+    "name": "Roosevelt",
+    "variant": "Valor",
+    "other": "",
+    "dlc": "",
+    "location": "Arcade",
+    "vechicleClass": "Sports Classics",
+    "bodyStyle": "4-door limousine",
+    "flags": [
+      "vintage"
+    ],
+    "originals": [
+      "Cadillac 341A Town Sedan 28 "
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Roosevelt"
+    }
+  },
+  {
+    "id": 58,
+    "manufacturer": "Annis",
+    "name": "Savestra",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Arcade",
+    "vechicleClass": "Sports Classics",
+    "bodyStyle": "2-door vintage coupe",
+    "flags": [
+      "Filmable"
+    ],
+    "originals": [
+      "Mazda Savanna/RX3, Series II- III",
+      "Nissan Skyline C110"
+    ],
+    "note": "F&F , Brian Car",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Savestra"
+    }
+  },
+  {
+    "id": 59,
+    "manufacturer": "Shitzu",
+    "name": "Hakuchou",
+    "variant": "Drag",
+    "other": "",
+    "dlc": "",
+    "location": "Arcade",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Drag bike",
+    "flags": [
+    ],
+    "originals": [
+      "Suzuki Hayabusa custom"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Hakuchou"
+    }
+  },
+  {
+    "id": 60,
+    "manufacturer": "Vapid",
+    "name": "Retinue",
+    "variant": "",
+    "other": "",
+    "dlc": "",
+    "location": "Arcade",
+    "vechicleClass": "Sports Classics",
+    "bodyStyle": "2-door vintage coupe",
+    "flags": [
+    ],
+    "originals": [
+      " Ford Escort Mk. I"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Retinue"
+    }
+  },
+  {
+    "id": 61,
+    "manufacturer": "Benefactor",
+    "name": "BR8",
+    "variant": "",
+    "other": "",
+    "dlc": "Los Santos Summer Special",
+    "location": "Arcade",
+    "vechicleClass": "Open Wheel",
+    "bodyStyle": "Single seat formula car",
+    "flags": [
+      "Formula-1"
+    ],
+    "originals": [
+      "Red Bull RB7"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/BR8"
     }
   }
+  
   
 ]
