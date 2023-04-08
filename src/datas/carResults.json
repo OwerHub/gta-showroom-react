@@ -1446,5 +1446,93 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Half-track"
     }
-  } 
+  } ,
+  {
+    "id": 49,
+    "manufacturer": "HVY",
+    "name": "Menacer",
+    "variant": "",
+    "other": "",
+    "dlc": "After Hours",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "4-door armored truck",
+    "flags": [
+      "Military",
+      "Weaponized",
+      "Armored"
+    ],
+    "originals": [
+      "The Boss Hunting Truck",
+      "Hummer H1"
+    ],
+    "note": "Very Heavy, good for ramming. Turret only can use the passanger",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Menacer"
+    }
+  },
+  {
+    "id": 49,
+    "manufacturer": "HVY",
+    "name": "Insurgent Pick-Up",
+    "variant": "Custom",
+    "other": "",
+    "dlc": "",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "Light Armored Personnel Vehicle",
+    "flags": [
+      "Military",
+      "Weaponized",
+      "Armored"
+    ],
+    "originals": [
+      "Terradyne Armored Vehicles"
+    ],
+    "note": "Turret only can use the passanger",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Insurgent_Pick-Up_Custom "
+    }
+  },
+  {
+    "id": 50,
+    "manufacturer": "Declasse",
+    "name": "Tampa",
+    "variant": "Weaponized",
+    "other": "",
+    "dlc": "Gunrunning",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "2-door muscle car",
+    "flags": [
+      "Military",
+      "Weaponized"
+    ],
+    "originals": [
+      "Chevrolet Corvair Monza"
+    ],
+    "note": "Dual gatling, rocket and mortar. I love it",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Tampa"
+    }
+  }
+  
 ]
