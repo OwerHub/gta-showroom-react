@@ -1533,6 +1533,90 @@
       ],
       "wiki": "https://gta.fandom.com/wiki/Tampa"
     }
+  },
+  {
+    "id": 51,
+    "manufacturer": "HVY",
+    "name": "Chernobog",
+    "variant": "",
+    "other": "",
+    "dlc": "Doomsday Heist",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Military",
+    "bodyStyle": "Artillery truck",
+    "flags": [
+      "Military",
+      "Weaponized"
+    ],
+    "originals": [
+      "MAZ-543/7310"
+    ],
+    "note": "Rocket Artillery. Only shoot when U stand",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Chernobog"
+    }
+  },
+  {
+    "id": 52,
+    "manufacturer": "unknown",
+    "name": "Khanjali",
+    "variant": "",
+    "other": "",
+    "dlc": "Doomsday Heist",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Military",
+    "bodyStyle": "Light tank",
+    "flags": [
+      "Military",
+      "Weaponized"
+    ],
+    "originals": [
+      " PL-01 Tank"
+    ],
+    "note": "3 player can use 3 different Weapon",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/TM-02_Khanjali"
+    }
+  },
+  {
+    "id": 52,
+    "manufacturer": "unknown",
+    "name": "Khanjali",
+    "variant": "",
+    "other": "",
+    "dlc": "Doomsday Heist",
+    "location": "Route 68 Facility",
+    "vechicleClass": "Military",
+    "bodyStyle": "Light tank",
+    "flags": [
+      "Military",
+      "Weaponized"
+    ],
+    "originals": [
+      " PL-01 Tank"
+    ],
+    "note": "3 player can use 3 different Weapon",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/TM-02_Khanjali"
+    }
   }
   
 ]
