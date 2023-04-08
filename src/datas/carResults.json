@@ -981,6 +981,7 @@
     "flags": [
       "Lifted-SuperCharger",
       "Muscle"
+ 
     ],
     "originals": [
       "Chevrolet Corvair Monza 65-69"
@@ -1374,7 +1375,9 @@
     "bodyStyle": "Fast-attack buggy",
     "flags": [
       "Military",
-      "Weaponized"
+      "Weaponized",
+      "Gatling",
+      "Passenger used weapon"
     ],
     "originals": [
       "tubular frame chassis"
@@ -1403,7 +1406,7 @@
     "flags": [
       "Military",
       "Armored",
-      "Waterable"
+      "Swim"
     ],
     "originals": [
       "SHERP ATV,"
@@ -1431,7 +1434,9 @@
     "bodyStyle": "Fast-attack buggy",
     "flags": [
       "Military",
-      "Weaponized"
+      "Weaponized",
+      "Machine Gun",
+      "Passenger used weapon"
     ],
     "originals": [
       "M3 Half-track"
@@ -1460,7 +1465,11 @@
     "flags": [
       "Military",
       "Weaponized",
-      "Armored"
+      "Armored",
+      "Machine Gun",
+      "Passenger used weapon",
+      "Driver used weapon",
+      "Turret"
     ],
     "originals": [
       "The Boss Hunting Truck",
@@ -1490,7 +1499,10 @@
     "flags": [
       "Military",
       "Weaponized",
-      "Armored"
+      "Armored",
+      "Machine Gun",
+      "Passenger used weapon",
+      "Turret"
     ],
     "originals": [
       "Terradyne Armored Vehicles"
@@ -1518,7 +1530,11 @@
     "bodyStyle": "2-door muscle car",
     "flags": [
       "Military",
-      "Weaponized"
+      "Weaponized",
+      "Mortar",
+      "Machine Gun",
+      "Rocket",
+      "Driver used weapon"
     ],
     "originals": [
       "Chevrolet Corvair Monza"
@@ -1546,7 +1562,9 @@
     "bodyStyle": "Artillery truck",
     "flags": [
       "Military",
-      "Weaponized"
+      "Weaponized",
+      "Rocket",
+      "Driver used weapon"
     ],
     "originals": [
       "MAZ-543/7310"
@@ -1574,7 +1592,12 @@
     "bodyStyle": "Light tank",
     "flags": [
       "Military",
-      "Weaponized"
+      "Weaponized",
+      "Cannon",
+      "Granade",
+      "Machine Gun",
+      "Driver used weapon",
+      "Passenger used weapon"
     ],
     "originals": [
       "PL-01 Tank"
@@ -1828,6 +1851,267 @@
         ""
       ],
       "wiki": "https://gta.fandom.com/wiki/BR8"
+    }
+  },
+  {
+    "id": 62,
+    "manufacturer": "Bravado",
+    "name": "Sasquatch",
+    "variant": "Apocalypse",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Off-Road",
+    "bodyStyle": "2-door monster truck",
+    "flags": [
+      "Arena War",
+      "Filmable",
+      "Weaponized",
+      "Armored",
+      "Ramming",
+      "Jump",
+      "Boostable",
+      "Mad Max",
+      "Granade",
+      "Driver used weapon"
+    ],
+    "originals": [
+      "Dodge W-Series 40",
+      "BigFoot from Mad Max Fury road"
+    ],
+    "note": "This car have a Kinetic Launcher, and can be mounted an electric ram on it",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Apocalypse_Sasquatch"
+    }
+  },
+  {
+    "id": 63,
+    "manufacturer": "Annis",
+    "name": "ZR380",
+    "variant": "Apocalypse",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Sports",
+    "bodyStyle": "2-door sports car",
+    "flags": [
+      "Arena War",
+      "Filmable",
+      "Weaponized",
+      "Armored",
+      "Spin Ram",
+      "Jump", 
+      "Boostable",
+      "Death Race",
+      "Machine Gun",
+      "Blade",
+      "Driver used weapon"
+    ],
+    "originals": [
+      "Nissan 350Z",
+      "Nissan GTR from Elysium",
+      "13K from Death Race"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Apocalypse_ZR380"
+    }
+  },
+  {
+    "id": 64,
+    "manufacturer": "Weeny",
+    "name": "Issi",
+    "variant": "Nightmare",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Compacts",
+    "bodyStyle": "Custom 2-door compact",
+    "flags": [
+      "Arena War",
+      "Weaponized",
+      "Armored",
+      "Ramming",
+      "Jump", 
+      "Boostable", 
+      "Mortar",
+      "Machine Gun",
+      "Driver used weapon"
+    ],
+    "originals": [
+      "Mini Cooper S 64"
+      
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Apocalypse_ZR380"
+    }
+  },
+  {
+    "id": 65,
+    "manufacturer": "Western Motorcycle Company",
+    "name": "Deathbike",
+    "variant": "Apocalypse",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Motorcycles",
+    "bodyStyle": "Custom motorcycle",
+    "flags": [
+      "Arena War",
+      "Weaponized",
+      "Armored",
+      "Blade",
+      "Jump", 
+      "Boostable", 
+      "Gatling",
+      "Driver used weapon",
+      "Filmable"
+    ],
+    "originals": [
+      "Indian 101 Scout",
+      "Daryl Bike from Walking Dead"
+      
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Apocalypse_Deathbike"
+    }
+  },
+  {
+    "id": 66,
+    "manufacturer": "Vapid",
+    "name": "Dominator",
+    "variant": "Apocalypse",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "Custom 2-door muscle car",
+    "flags": [
+      "Arena War",
+      "Weaponized",
+      "Armored",
+      "Ramming",
+      "Jump", 
+      "Boostable", 
+      "Machine Gun",
+      "Driver used weapon",
+      "Filmable"
+    ],
+    "originals": [
+      "Ford Mustang",
+      "Mustang from Death race"
+      
+    ],
+    "note": "The car have a throwable shield, the TombStone",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Apocalypse_Dominator"
+    }
+  },
+  {
+    "id": 67,
+    "manufacturer": "Vapid",
+    "name": "Imperator",
+    "variant": "Nightmare",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Muscle",
+    "bodyStyle": "Custom 2-door muscle car",
+    "flags": [
+      "Arena War",
+      "Weaponized",
+      "Armored",
+      "Ramming",
+      "Jump", 
+      "Boostable", 
+      "Machine Gun",
+      "Driver used weapon",
+      "Spin Ram",
+      "Mortar"
+    ],
+    "originals": [
+      "Ford Falcon XB GT"
+    ],
+    "note": "This car's Apocalypse version can be a Pursuit Special from Mad Max",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Nightmare_Imperator"
+    }
+  },
+  {
+    "id": 67,
+    "manufacturer": "MTL",
+    "name": "Cerberus",
+    "variant": "Apocalypse",
+    "other": "",
+    "dlc": "Arena War",
+    "location": "Arena Workshop",
+    "vechicleClass": "Commercial",
+    "bodyStyle": "Custom truck",
+    "flags": [
+      "Arena War",
+      "Weaponized",
+      "Armored",
+      "Ramming",
+      "Jump", 
+      "Boostable", 
+      "Flamethrower",
+      "Driver used weapon",
+      "Passenger used weapon",
+      "Filmable"
+     
+    ],
+    "originals": [
+      "Peterbilt 281",
+      "War Rig from Mad Max",
+      "The Dreadnought from Death Race"
+    ],
+    "note": "",
+    "media": {
+      "photos": [
+        ""
+      ],
+      "videos": [
+        ""
+      ],
+      "wiki": "https://gta.fandom.com/wiki/Apocalypse_Cerberus"
     }
   }
   
